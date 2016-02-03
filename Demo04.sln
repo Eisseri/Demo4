@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApplication", "CarApplication\CarApplication.csproj", "{CC5803ED-138C-484D-9B0E-F19D3ED9028B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonApplication", "PersonApplication\PersonApplication.csproj", "{D17B3DEE-C2F5-4DA5-990F-40BBE2A44226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava1", "Tehtava1\Tehtava1.csproj", "{7C37B58C-50B2-403E-8FAC-232E23561AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5803ED-138C-484D-9B0E-F19D3ED9028B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5803ED-138C-484D-9B0E-F19D3ED9028B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5803ED-138C-484D-9B0E-F19D3ED9028B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5803ED-138C-484D-9B0E-F19D3ED9028B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17B3DEE-C2F5-4DA5-990F-40BBE2A44226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17B3DEE-C2F5-4DA5-990F-40BBE2A44226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17B3DEE-C2F5-4DA5-990F-40BBE2A44226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17B3DEE-C2F5-4DA5-990F-40BBE2A44226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C37B58C-50B2-403E-8FAC-232E23561AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C37B58C-50B2-403E-8FAC-232E23561AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C37B58C-50B2-403E-8FAC-232E23561AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C37B58C-50B2-403E-8FAC-232E23561AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
